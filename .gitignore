@@ -2,6 +2,4 @@
 .pio
 .pioenvs
 .piolibdeps
-.platformio/.cache
-.platformio/.cache/downloads/3b93109c037774136ff8264642deeaf495e18c3e
-.platformio/.cache/downloads/34b8ca9afec5d9d7551af2f2a4f74769b526e706
+.platformio
